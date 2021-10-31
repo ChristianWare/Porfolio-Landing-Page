@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 import Navbar from '../src/components/Navbar'
+import Cube from '../src/components/Cubes/Cube'
 
 export default function Home() {
   return (

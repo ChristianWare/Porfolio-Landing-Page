@@ -25,11 +25,6 @@ function Navbar() {
             }
           >
             <li className={styles.navitem}>
-              <Link href='/'>
-                <a>Home</a>
-              </Link>
-            </li>
-            <li className={styles.navitem}>
               <Link href='#about'>
                 <a>About</a>
               </Link>
